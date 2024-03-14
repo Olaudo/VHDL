@@ -15,7 +15,7 @@ Welcome to the VHDL FPGA Board Vending Machine project repository! This project 
 To get started with this project, you'll need the following:
 
 - FPGA Development Board (e.g., Xilinx, Altera)
-- VHDL Synthesis Tool (e.g., Xilinx Vivado, Altera Quartus)
+- VHDL Synthesis Tool (e.g., Xilinx Vivado, Altera Quartus) I used Quartus Prime
 - Optional: LCD or LED Display for user interface
 
 ## Getting Started
@@ -24,7 +24,7 @@ Follow these steps to set up and run the VHDL FPGA Board Vending Machine:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/vhdl-fpga-vending-machine.git
+   git clone [https://github.com/your-username/vhdl-fpga-vending-machine.git](https://github.com/Olaudo/VHDL/blob/main/seven%20segment%20code.docx)
    ```
 
 2. **Open in Synthesis Tool**: Open the project in your preferred VHDL synthesis tool (e.g., Xilinx Vivado, Altera Quartus).
