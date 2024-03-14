@@ -1,4 +1,4 @@
-#VHDL FPGA BOARD VENDING MACHINE 
+
 # VHDL FPGA Board Vending Machine
 
 Welcome to the VHDL FPGA Board Vending Machine project repository! This project aims to implement a vending machine using VHDL (VHSIC Hardware Description Language) targeted for FPGA (Field-Programmable Gate Array) development boards. The vending machine simulates the functionality of a real-world vending machine, enabling users to select items, make payments, and receive their chosen items. Below, you'll find an overview of the project, its features, and instructions for running and testing the code on an FPGA development board.
